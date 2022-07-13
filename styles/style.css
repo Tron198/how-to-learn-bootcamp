@@ -62,7 +62,6 @@
   z-index: 1;
   bottom: 0;
   right: 0;
-  z-index: 1;
 }
 .header__square-pic {
   position: absolute;
@@ -434,10 +433,6 @@
   margin-top: 80px;
 }
 
-
-
-
-
 .resources {
   display: flex;
   flex-direction: column;
@@ -459,24 +454,6 @@
   transition: 0.35s;
   opacity: 0.4;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .footer {
   display: flex;
