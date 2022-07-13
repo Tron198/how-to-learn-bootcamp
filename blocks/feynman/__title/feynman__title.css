@@ -1,0 +1,13 @@
+.feynman__title {
+  margin-block-start: 0;
+  margin-block-end: 0;
+  margin-inline-start: 0;
+  margin-inline-end: 0;
+  text-align: center;
+  width: 648px;
+  font-weight: bold;
+  line-height: 1.15em;
+  font-size: 120px;
+  z-index: 2;
+  margin: 0;
+}
